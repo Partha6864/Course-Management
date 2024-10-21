@@ -32,7 +32,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/course-management-api.git
+git clone https://github.com/Partha6864/Course-Management.git
 ```
 
 ### 2. Build the Project
