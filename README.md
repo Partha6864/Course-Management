@@ -24,7 +24,7 @@
 
 ## Requirements
 
-- Java 21 or higher
+- Java 21
 - Maven
 
 ## Getting Started
@@ -33,3 +33,5 @@
 
 ```bash
 git clone https://github.com/your-username/course-management-api.git
+
+## Accessing H2 Database Console
