@@ -56,4 +56,4 @@ http://localhost:8080/h2-console
 ### 5. Accessing Swagger UI
 
 ```bash
-http://localhost:8080/swagger-ui.html
+http://localhost:8080/swagger-ui/index.html
