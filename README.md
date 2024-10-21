@@ -35,13 +35,25 @@
 git clone https://github.com/your-username/course-management-api.git
 ```
 
-### 2. Accessing H2 Database Console
+### 2. Build the Project
+
+```bash
+mvn clean install
+```
+
+### 3. Run the Application
+
+```bash
+mvn spring-boot:run
+```
+
+### 4. Accessing H2 Database Console
 
 ```bash
 http://localhost:8080/h2-console
 ```
 
-### 3. Accessing Swagger UI
+### 5. Accessing Swagger UI
 
 ```bash
 http://localhost:8080/swagger-ui.html
